@@ -1,0 +1,10 @@
+gurobipy
+tkinter
+customtkinter
+os
+numpy
+matplotlib
+networkx
+PyQt5
+pandas
+Pillow
